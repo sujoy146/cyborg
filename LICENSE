@@ -1,21 +1,48 @@
-MIT License
+CYBORG - Proprietary License
 
-Copyright (c) 2026 Sujoy Maity
+Copyright (c) 2026 Sujoy Maitty. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+TERMS AND CONDITIONS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. DEFINITIONS
+   "Software" refers to the Cyborg project, including all source code, documentation,
+   assets, and associated files in this repository.
+   "Author" refers to Sujoy Maitty.
+   "Website" refers to the hosted, publicly accessible instance of the Software
+   operated by the Author.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. PERMITTED USE
+   You are permitted to:
+   - Use the Software through the Website as an end user.
+   - View the source code in this repository for reference purposes only.
+
+3. RESTRICTIONS
+   Without prior written permission from the Author, you may NOT:
+   - Copy, reproduce, or duplicate the Software or any portion of it.
+   - Modify, adapt, or create derivative works based on the Software.
+   - Distribute, publish, or share the Software in any form.
+   - Sublicense, sell, lease, or commercially exploit the Software.
+   - Use the source code to build or deploy your own instance of the Software.
+   - Fork this repository for any purpose other than submitting contributions
+     back to this project (with Author approval).
+
+4. CONTRIBUTIONS
+   Any contributions submitted to this project (e.g., pull requests) are subject
+   to the Author's approval and, once merged, become the property of the Author
+   under this same license.
+
+5. PERMISSION REQUESTS
+   To request permission for any use not covered under Section 2, contact:
+   GitHub: https://github.com/sujoy146
+
+6. DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM,
+   OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+7. ENFORCEMENT
+   Any unauthorized copying, distribution, or use of this Software is a violation
+   of this license and may be subject to legal action.
