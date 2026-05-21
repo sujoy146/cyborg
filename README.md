@@ -71,7 +71,7 @@
 | Delta Scale | δ = 0.38 |
 | PSNR | ~26 dB (avg over 200 test images) |
 | SSIM | ~0.95 |
-| Bit Accuracy | ~86.3% raw → ~96% after 10× majority-vote ECC |
+| Bit Accuracy | ~86.3% raw → ~99.3% after 10× majority-vote ECC |
 
 ---
 
