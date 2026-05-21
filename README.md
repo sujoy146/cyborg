@@ -22,12 +22,12 @@
 
 ## ✨ Features
 
-- ** Deep Learning Steganography** — StegoGAN (HiDDeN-based U-Net encoder + decoder) trained on 42K animal images for invisible message embedding
-- ** 5-Layer Security Pipeline** — AES-256-GCM → Lookup Table → XOR+PBKDF2 → StegoGAN → LSB Scrambling
-- ** High Fidelity** — PSNR ~26 dB, SSIM ~0.95 with 60-bit message capacity
-- ** Full-Stack Web App** — React frontend + FastAPI backend, deployed and accessible online
-- ** User Image Upload** — Encode messages into your own images or choose from a gallery
-- ** Circular Buffer** — 55-entry FIFO lookup table with automatic eviction (slots 1–63)
+- **Deep Learning Steganography** — StegoGAN (HiDDeN-based U-Net encoder + decoder) trained on 42K animal images for invisible message embedding
+- **5-Layer Security Pipeline** — AES-256-GCM → Lookup Table → XOR+PBKDF2 → StegoGAN → LSB Scrambling
+- **High Fidelity** — PSNR ~26 dB, SSIM ~0.95 with 60-bit message capacity
+- **Full-Stack Web App** — React frontend + FastAPI backend, deployed and accessible online
+- **User Image Upload** — Encode messages into your own images or choose from a gallery
+- **Circular Buffer** — 55-entry FIFO lookup table with automatic eviction (slots 1–63)
 
 ---
 
